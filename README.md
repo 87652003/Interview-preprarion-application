@@ -1,3 +1,4 @@
+
 # AI Interview Prep App — Starter Structure
 
 ## Backend (FastAPI)
@@ -41,3 +42,7 @@ Frontend runs at http://localhost:5173
 - Persist sessions to a database (currently all state lives in React memory — refresh = lost progress)
 - Add a "final results" screen summarizing the full interview
 - Add voice input/output (Web Speech API) once the text flow feels solid
+
+# Interview-preprarion-application
+This is my first React + Python Application
+ b87dea6aabac077f8cbfb528b8a61c5d31e5644a
