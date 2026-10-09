@@ -1,0 +1,14 @@
+# Ignore secret files
+.env
+.env.*
+!.env.example
+
+# Ignore Python temporary files
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Ignore frontend dependencies
+node_modules/
+dist/
